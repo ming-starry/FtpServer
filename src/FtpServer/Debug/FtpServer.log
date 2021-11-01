@@ -1,0 +1,60 @@
+﻿  ev_ftp_server.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xthreadpool.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XFtpDELE.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftpdele.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftptask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XFtpFactory.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftpservercmd.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftptask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XFtpLIST.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftplist.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftptask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XFtpPORT.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftpport.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftptask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftpport.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+  XFtpRETR.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftpretr.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftptask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XFtpRNFR.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftptask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XFtpRNTO.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftptask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XFtpServerCmd.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftpservercmd.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftpservercmd.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftptask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XFtpSTOR.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftpstor.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftptask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XFtpTask.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftptask.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftptask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XFtpUSER.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xftptask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XTask.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XThread.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xthread.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xthread.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  XThreadPool.cpp
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xthreadpool.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xthreadpool.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xtask.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+\\192.168.0.107\opensource\ftpserver\src\ftpserver\xthread.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+  FtpServer.vcxproj -> \\192.168.0.107\opensource\FtpServer\src\FtpServer\Debug\FtpServer.exe
