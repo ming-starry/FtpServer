@@ -1,2 +1,2 @@
 # FtpServer
-支持Windows和Linux
+支持Windows x86和Linux
