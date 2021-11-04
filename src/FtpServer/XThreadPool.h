@@ -22,6 +22,9 @@ public:
 	//分发线程
 	void Dispatch(XTask * task);
 
+	//销毁线程
+	void Uninit();
+
 
 private:
 	//线程数量

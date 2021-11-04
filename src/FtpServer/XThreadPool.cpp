@@ -37,3 +37,16 @@ void XThreadPool::Dispatch(XTask * task)
 
 
 }
+
+//清理线程
+void XThreadPool::Uninit()
+{
+	for (int i = 0; i < threads.size(); i++)
+	{
+		if (threads[i])
+		{
+			delete threads[i];
+			threads[i] = NULL;
+		}
+	}
+}

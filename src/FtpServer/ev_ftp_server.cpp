@@ -42,7 +42,7 @@ int main()
 
 	//初始化线程池
 	XThreadPool::Get()->Init(10);
-
+	
 
 	//创建libevent上下文
 	event_base * base = event_base_new();
@@ -74,12 +74,15 @@ int main()
 	if (ev)
 	{
 		evconnlistener_free(ev);
+
 	}
 
 	if (base) 
 	{
 		event_base_free(base);
 	}
+	//销毁线程
+	XThreadPool::Get()->Uninit();
 
 #ifdef _WIN32
 	WSACleanup();
